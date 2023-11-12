@@ -35,6 +35,8 @@ Don't forget to hit the :star: if you like this repo.
 | 20   | Abdul Karim                     | abdulk4rim    | [:octocat:](https://github.com/abdulk4rim)   | <a href="https://www.linkedin.com/in/"><img src="./images/linkedin.png" width="24px" height="24px"></a> |<a href="./portfolio/abdulk4rim"><img src="./images/portfolio.png" width="24px" height="24px"></a>|
 | 21   | Indriana Syah Putri                    | indrianaSP    | [:octocat:](https://github.com/indrianaSP)   | <a href="https://www.linkedin.com/in/"><img src="./images/linkedin.png" width="24px" height="24px"></a> |<a href="./portfolio/indrianaSP"><img src="./images/portfolio.png" width="24px" height="24px"></a>|
 | 22   | Yusuf Kurniawan                      | yusuf23004    | [:octocat:](https://github.com/yusuf23004)   | <a href="https://www.linkedin.com/in/"><img src="./images/linkedin.png" width="24px" height="24px"></a> |<a href="./portfolio/yusuf23004"><img src="./images/portfolio.png" width="24px" height="24px"></a>|
+| 23   | Rika Rachmawati                      | RikaRachmawati    | [:octocat:](https://github.com/RikaRachmawati)   | <a href="https://www.linkedin.com/in/"><img src="./images/linkedin.png" width="24px" height="24px"></a> |<a href="./portfolio/RikaRachmawati"><img src="./images/portfolio.png" width="24px" height="24px"></a>|
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/AI-Innovation/issues) for any improvements, suggestions or errors in the content.
